@@ -1,4 +1,4 @@
-package br.com.alessanderleite;
+package br.com.alessanderleite.model;
 
 import java.io.Serializable;
 import java.util.Date;
